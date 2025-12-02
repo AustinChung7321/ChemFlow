@@ -1,0 +1,5 @@
+{
+  "name": "ChemFlow AI",
+  "description": "A smart chemical inventory management system that tracks usage, alerts on low stock, and uses Gemini AI to generate professional procurement justification reports.",
+  "requestFramePermissions": []
+}
